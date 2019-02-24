@@ -11,7 +11,7 @@ For slides and example code, see [lesson 1](../../../fhnw-iot/blob/master/01/REA
 * We will check out the result together.
 
 ### b) Deconstructing IoT, 15'
-* [Click here to pick one](https://duckduckgo.com/?q=random+number+between+1+and+8) of the above products/projects.
+* [Click here to pick one](https://duckduckgo.com/?q=random+number+between+1+and+8) of the below products/projects.
 * Nest<sup>1</sup>, Hue<sup>2</sup>, Withings<sup>3</sup>, Good Night Lamp<sup>4</sup>, Safecast<sup>5</sup>,
 * Luftdaten<sup>6</sup>, Oxford Flood Network<sup>7</sup>, Rolls-Royce<sup>8</sup>.
 * Draw a reference model of how it works.
