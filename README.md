@@ -5,8 +5,18 @@ For slides and example code, see [lesson 1](../../../fhnw-iot/blob/master/01/REA
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
-### a) X, 0'
-* X.
+### a) Defining IoT, 5'
+* What does Internet of Things mean to you?
+* Write down your definition on a post-it.
+* We will check out the result together.
+
+### b) Deconstructing IoT, 15'
+* [Click here to pick one](https://duckduckgo.com/?q=random+number+between+1+and+8) of the above products/projects.
+* Nest1, Hue2, Withings3, Good Night Lamp4, Safecast5,
+* Luftdaten6, Oxford Flood Network7, Rolls-Royce8.
+* Draw a reference model of how it works.
+* Here is a [connected door example](https://pbs.twimg.com/media/DaQ91NUXkAA_VFY.png:large).
+* Be ready to present your result.
 
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
