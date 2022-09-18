@@ -10,7 +10,7 @@ For slides and example code, see [lesson 1](../../../fhnw-iot/blob/master/01/REA
 * Write down your personal definition.
 * What are typical use cases?
 
-### b) Deconstructing IoT, 15'
+### b) Deconstructing IoT, 10'
 * Pick one of these connected products / IoT projects:
 * Nest, Hue, Withings, Good Night Lamp, Safecast,
 * Luftdaten, Oxford Flood Network, Rolls-Royce.
